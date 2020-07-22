@@ -1,1 +1,1 @@
-# social-sciences-statisctics
+# social-sciences-statistics
